@@ -3,12 +3,12 @@ import './App.css'
 import Cards from './components/Cards';
 
 const cardImage = [
-  {"src": "/img/helmet-1.png", matched: false},
-  {"src": "/img/potion-1.png", matched: false},
-  {"src": "/img/ring-1.png", matched: false},
-  {"src": "/img/scroll-1.png", matched: false},
-  {"src": "/img/shield-1.png", matched: false},
-  {"src": "/img/sword-1.png", matched: false}
+  {"src": "/img/jasnah.jpg", matched: false},
+  {"src": "/img/kaladin.jpg", matched: false},
+  {"src": "/img/adolin.jpg", matched: false},
+  {"src": "/img/shallan.jpg", matched: false},
+  {"src": "/img/dalinar.jpg", matched: false},
+  {"src": "/img/navani.jpg", matched: false}
 ]
 
 function App() {
