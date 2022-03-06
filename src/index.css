@@ -9,4 +9,5 @@ body {
   text-align: center;
   background: #1b1523;
   color: #fff;
+  background-image: url(/public/img/background.jpg);
 }
